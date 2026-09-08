@@ -2,6 +2,10 @@
 
 This project demonstrates the design, configuration, and security of a multi-site enterprise network using Cisco Packet Tracer. The network was developed in multiple stages, beginning with the network topology and expanding to include routing, VLANs, subnetting, DHCP, documentation, and security controls.
 
+## 🖥️ Network Topology
+
+![Multi-Site Network Topology](Screenshot%202026-09-08%20120227.png)
+
 ## 📌 Project Overview
 
 The network connects multiple business locations and separates departments using VLANs and subnetting. Routing was configured between sites to provide connectivity across the network while maintaining an organized and scalable addressing structure.
